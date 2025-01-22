@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Trustfunds",
+    "imageSrc": "projects/project.png",
+    "description": "A decentralized crowdfunding platform.",
+    "skills": ["React", "Express", "Node"],
+    
+    "source": "https://github.com/trustfundsweb/trustfunds"
+  },
+  {
+    "title": "Inventory Management App",
+    "imageSrc": "projects/project.png",
+    "description": "Tracking the movement of inventory in our College.",
+    "skills": ["Python"],
+    
+    "source": "https://github.com/Abraham1904/InventoryManagementSystem"
+  },
+  {
+    "title": "Maveli-bot 2.0",
+    "imageSrc": "projects/project.png",
+    "description": "Maveli answers a set of predefined questions of his devotees",
+    "skills": ["JavaScript", "CSS", "HTML"],
+    
+    "source": "https://github.com/Abraham1904/Maveli-bot2.0"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Computer Science Student",
+    "organisation": "RIT Kottayam",
+    "startDate": "June, 2020",
+    "endDate": "June, 2024",
+    "experiences": ["Worked on flutter project, Worked on Crowdfunding Platform Website"]
+    
+  },
+  {
+    "role": "Associate Software Engineer Trainee",
+    "organisation": "Tarento Technologies",
+    "startDate": "Jan, 2025",
+    "endDate": "Present",
+    "experiences": ["Training Ongoing"]
+    
+  }
+  
+]
