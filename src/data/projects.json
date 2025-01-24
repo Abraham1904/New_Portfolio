@@ -1,7 +1,7 @@
 [
   {
     "title": "Trustfunds",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/Trustfunds.jpg",
     "description": "A decentralized crowdfunding platform.",
     "skills": ["React", "Express", "Node"],
     
@@ -9,7 +9,7 @@
   },
   {
     "title": "Inventory Management App",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/Inventory.jpg",
     "description": "Tracking the movement of inventory in our College.",
     "skills": ["Python"],
     
@@ -17,7 +17,7 @@
   },
   {
     "title": "Maveli-bot 2.0",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/images.jpeg",
     "description": "Maveli answers a set of predefined questions of his devotees",
     "skills": ["JavaScript", "CSS", "HTML"],
     
