@@ -1,0 +1,51 @@
+@import "../../vars.css";
+
+.container {
+    background-color: var(--color-secondary);
+  padding: 50px;
+  margin: 20px 10%;
+  border-radius: 15px;
+  text-align: center;
+}
+
+.title {
+  color: var(--color-text);
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.input {
+  padding: 15px;
+  font-size: 16px;
+  border: 1px solid var(--color-secondary);
+  border-radius: 8px;
+}
+
+.button {
+  padding: 10px 20px;
+  background-color: var(--color-primary);
+  color: var(--color-text);
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.button:hover {
+  background-color: var(--color-secondary);
+}
+
+.message {
+  margin-top: 20px;
+  color: var(--color-text);
+  font-size: 16px;
+}
